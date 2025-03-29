@@ -1,0 +1,15 @@
+StartChar: j
+Encoding: 106 106 158
+Width: 632
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 365 765 basechar 0
+AnchorPoint: "Anchor-0" 345 -251 basechar 0
+LayerCount: 2
+Fore
+Refer: 159 567 N 1 0 0 1 0 0 0
+Refer: 339 -1 N 1 0 0 1 49 0 0
+Substitution2: "Single Substitution lookup 13 subtable" uni006A0301
+Substitution2: "Single Substitution lookup 11 subtable" uni0237
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni006A0301
+EndChar

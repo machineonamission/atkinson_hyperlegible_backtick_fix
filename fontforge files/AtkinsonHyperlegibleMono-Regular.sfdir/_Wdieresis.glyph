@@ -1,0 +1,12 @@
+StartChar: Wdieresis
+Encoding: 7812 7812 100
+Width: 632
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 317 838 basechar 0
+AnchorPoint: "Anchor-0" 318 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 97 87 N 1 0 0 1 0 0 0
+Refer: 336 -1 N 1 0 0 1 1 0 0
+EndChar

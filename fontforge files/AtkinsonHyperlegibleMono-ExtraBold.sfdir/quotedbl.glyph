@@ -1,0 +1,45 @@
+StartChar: quotedbl
+Encoding: 34 34 284
+Width: 632
+GlyphClass: 1
+Flags: W
+TtInstrs:
+NPUSHB
+ 20
+ 3
+ 1
+ 1
+ 1
+ 0
+ 95
+ 2
+ 1
+ 0
+ 0
+ 34
+ 1
+ 78
+ 17
+ 17
+ 17
+ 16
+ 4
+ 8
+ 26
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+121 668 m 1,0,-1
+ 282 668 l 1,1,-1
+ 267 420 l 1,2,-1
+ 136 420 l 1,3,-1
+ 121 668 l 1,0,-1
+350 668 m 1,4,-1
+ 511 668 l 1,5,-1
+ 496 420 l 1,6,-1
+ 365 420 l 1,7,-1
+ 350 668 l 1,4,-1
+EndSplineSet
+EndChar

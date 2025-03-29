@@ -1,0 +1,65 @@
+StartChar: one
+Encoding: 49 49 230
+Width: 632
+GlyphClass: 5
+Flags: W
+TtInstrs:
+NPUSHB
+ 34
+ 0
+ 2
+ 0
+ 1
+ 0
+ 2
+ 1
+ 103
+ 0
+ 3
+ 3
+ 34
+ 77
+ 4
+ 1
+ 0
+ 0
+ 5
+ 96
+ 0
+ 5
+ 5
+ 35
+ 5
+ 78
+ 17
+ 17
+ 19
+ 17
+ 17
+ 16
+ 6
+ 8
+ 28
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+100 132 m 1,0,-1
+ 248 132 l 1,1,-1
+ 248 438 l 1,2,-1
+ 100 438 l 1,3,-1
+ 100 571 l 1,4,5
+ 160 571 160 571 191 576.5 c 128,-1,6
+ 222 582 222 582 244 602.5 c 128,-1,7
+ 266 623 266 623 284 668 c 1,8,-1
+ 410 668 l 1,9,-1
+ 410 132 l 1,10,-1
+ 532 132 l 1,11,-1
+ 532 0 l 1,12,-1
+ 100 0 l 1,13,-1
+ 100 132 l 1,0,-1
+EndSplineSet
+Substitution2: "'sups' Superscript in Latin lookup 6 subtable" uni00B9
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni00B9
+EndChar

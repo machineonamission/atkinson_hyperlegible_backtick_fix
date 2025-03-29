@@ -1,0 +1,46 @@
+StartChar: uni030C.alt
+Encoding: 65546 -1 346
+Width: 0
+GlyphClass: 4
+Flags: W
+TtInstrs:
+NPUSHB
+ 21
+ 0
+ 0
+ 1
+ 1
+ 0
+ 89
+ 0
+ 0
+ 0
+ 1
+ 95
+ 0
+ 1
+ 0
+ 1
+ 79
+ 22
+ 32
+ 2
+ 6
+ 24
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-3" 284 496 mark 0
+LayerCount: 2
+Fore
+SplineSet
+432 718 m 0,1,2
+ 457 718 457 718 471.5 704 c 128,-1,3
+ 486 690 486 690 486 672 c 0,4,5
+ 486 658 486 658 478.5 642.5 c 128,-1,6
+ 471 627 471 627 454 602 c 2,7,-1
+ 401 524 l 1,8,-1
+ 305 524 l 1,9,-1
+ 359 664 l 2,10,0
+ 380 718 380 718 432 718 c 0,1,2
+EndSplineSet
+EndChar

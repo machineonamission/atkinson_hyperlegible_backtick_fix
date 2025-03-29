@@ -1,0 +1,62 @@
+StartChar: guillemotright
+Encoding: 187 187 281
+Width: 632
+GlyphClass: 1
+Flags: W
+TtInstrs:
+NPUSHB
+ 33
+ 9
+ 3
+ 2
+ 1
+ 0
+ 1
+ 76
+ 2
+ 1
+ 0
+ 1
+ 1
+ 0
+ 87
+ 2
+ 1
+ 0
+ 0
+ 1
+ 95
+ 3
+ 1
+ 1
+ 0
+ 1
+ 79
+ 18
+ 18
+ 18
+ 17
+ 4
+ 8
+ 26
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+441 257 m 1,0,-1
+ 335 460 l 1,1,-1
+ 451 460 l 1,2,-1
+ 562 250 l 1,3,-1
+ 373 40 l 1,4,-1
+ 245 40 l 1,5,-1
+ 441 257 l 1,0,-1
+222 263 m 1,6,-1
+ 116 460 l 1,7,-1
+ 232 460 l 1,8,-1
+ 343 257 l 1,9,-1
+ 154 40 l 1,10,-1
+ 26 40 l 1,11,-1
+ 222 263 l 1,6,-1
+EndSplineSet
+EndChar

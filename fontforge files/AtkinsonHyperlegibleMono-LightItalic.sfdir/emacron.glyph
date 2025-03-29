@@ -1,0 +1,23 @@
+StartChar: emacron
+Encoding: 275 275 140
+Width: 632
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 2
+ 1
+PUSHW_1
+ -2
+PUSHB_1
+ 53
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-2" 428 -3 basechar 0
+AnchorPoint: "Anchor-1" 408 651 basechar 0
+AnchorPoint: "Anchor-0" 262 2 basechar 0
+LayerCount: 2
+Fore
+Refer: 133 101 N 1 0 0 1 0 0 0
+Refer: 357 772 N 1 0 0 1 5 -2 2
+EndChar

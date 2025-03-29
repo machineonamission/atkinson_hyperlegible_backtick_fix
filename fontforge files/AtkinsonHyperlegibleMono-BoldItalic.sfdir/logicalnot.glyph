@@ -1,0 +1,49 @@
+StartChar: logicalnot
+Encoding: 172 172 323
+Width: 632
+GlyphClass: 1
+Flags: W
+TtInstrs:
+NPUSHB
+ 27
+ 0
+ 2
+ 0
+ 2
+ 134
+ 0
+ 1
+ 0
+ 0
+ 1
+ 87
+ 0
+ 1
+ 1
+ 0
+ 95
+ 0
+ 0
+ 1
+ 0
+ 79
+ 17
+ 17
+ 16
+ 3
+ 8
+ 25
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+461 299 m 1,0,-1
+ 73 299 l 1,1,-1
+ 98 417 l 1,2,-1
+ 606 417 l 1,3,-1
+ 531 63 l 1,4,-1
+ 411 63 l 1,5,-1
+ 461 299 l 1,0,-1
+EndSplineSet
+EndChar

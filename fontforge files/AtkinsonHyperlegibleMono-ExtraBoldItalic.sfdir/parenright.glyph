@@ -1,0 +1,80 @@
+StartChar: parenright
+Encoding: 41 41 269
+Width: 632
+GlyphClass: 1
+Flags: W
+TtInstrs:
+MPPEM
+PUSHB_1
+ 13
+LT
+IF
+NPUSHB
+ 11
+ 0
+ 0
+ 0
+ 36
+ 77
+ 0
+ 1
+ 1
+ 39
+ 1
+ 78
+ELSE
+MPPEM
+PUSHB_1
+ 19
+LT
+IF
+NPUSHB
+ 11
+ 0
+ 0
+ 1
+ 0
+ 133
+ 0
+ 1
+ 1
+ 39
+ 1
+ 78
+ELSE
+NPUSHB
+ 9
+ 0
+ 0
+ 1
+ 0
+ 133
+ 0
+ 1
+ 1
+ 118
+EIF
+EIF
+PUSHB_5
+ 21
+ 21
+ 2
+ 8
+ 24
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+264.5 75 m 128,-1,1
+ 360 210 360 210 360 359 c 0,2,3
+ 360 445 360 445 329 533.5 c 128,-1,4
+ 298 622 298 622 238 708 c 1,5,-1
+ 410 708 l 1,6,7
+ 518 542 518 542 518 363 c 0,8,9
+ 518 214 518 214 442 80.5 c 128,-1,10
+ 366 -53 366 -53 222 -162 c 1,11,-1
+ 20 -162 l 1,12,0
+ 169 -60 169 -60 264.5 75 c 128,-1,1
+EndSplineSet
+EndChar

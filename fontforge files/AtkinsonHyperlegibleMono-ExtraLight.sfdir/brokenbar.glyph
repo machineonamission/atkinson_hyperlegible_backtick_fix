@@ -1,0 +1,51 @@
+StartChar: brokenbar
+Encoding: 166 166 297
+Width: 632
+GlyphClass: 1
+Flags: W
+TtInstrs:
+NPUSHB
+ 26
+ 0
+ 2
+ 0
+ 3
+ 0
+ 2
+ 3
+ 103
+ 0
+ 0
+ 0
+ 1
+ 95
+ 0
+ 1
+ 1
+ 39
+ 1
+ 78
+ 17
+ 17
+ 17
+ 16
+ 4
+ 8
+ 26
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+288 233 m 1,0,-1
+ 344 233 l 1,1,-1
+ 344 -162 l 1,2,-1
+ 288 -162 l 1,3,-1
+ 288 233 l 1,0,-1
+288 838 m 1,4,-1
+ 344 838 l 1,5,-1
+ 344 443 l 1,6,-1
+ 288 443 l 1,7,-1
+ 288 838 l 1,4,-1
+EndSplineSet
+EndChar

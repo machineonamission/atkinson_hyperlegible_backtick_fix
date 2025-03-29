@@ -1,0 +1,64 @@
+StartChar: radical
+Encoding: 8730 8730 330
+Width: 632
+GlyphClass: 1
+Flags: W
+TtInstrs:
+NPUSHB
+ 39
+ 4
+ 1
+ 3
+ 0
+ 1
+ 76
+ 0
+ 2
+ 1
+ 2
+ 133
+ 0
+ 3
+ 0
+ 3
+ 134
+ 0
+ 1
+ 0
+ 0
+ 1
+ 87
+ 0
+ 1
+ 1
+ 0
+ 95
+ 0
+ 0
+ 1
+ 0
+ 79
+ 17
+ 18
+ 17
+ 16
+ 4
+ 6
+ 26
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+140 171 m 1,0,-1
+ 53 171 l 1,1,-1
+ 64 225 l 1,2,-1
+ 190 225 l 1,3,-1
+ 253 -89 l 1,4,-1
+ 627 668 l 1,5,-1
+ 691 668 l 1,6,-1
+ 278 -162 l 1,7,-1
+ 208 -162 l 1,8,-1
+ 140 171 l 1,0,-1
+EndSplineSet
+EndChar

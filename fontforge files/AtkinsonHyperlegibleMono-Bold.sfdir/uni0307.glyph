@@ -1,0 +1,65 @@
+StartChar: uni0307
+Encoding: 775 775 337
+Width: 0
+GlyphClass: 4
+Flags: W
+TtInstrs:
+PUSHB_2
+ 6
+ 100
+WCVTP
+NPUSHB
+ 27
+ 0
+ 0
+ 1
+ 1
+ 0
+ 89
+ 0
+ 0
+ 0
+ 1
+ 97
+ 2
+ 1
+ 1
+ 0
+ 1
+ 81
+ 0
+ 0
+ 0
+ 11
+ 0
+ 10
+ 36
+ 3
+ 8
+ 23
+CALL
+PUSHB_2
+ 6
+ 0
+WCVTP
+EndTTInstrs
+AnchorPoint: "Anchor-5" 316 718 basemark 0
+AnchorPoint: "Anchor-5" 316 496 mark 0
+AnchorPoint: "Anchor-1" 316 496 mark 0
+LayerCount: 2
+Fore
+SplineSet
+265.5 596.5 m 128,-1,1
+ 244 618 244 618 244 647 c 256,2,3
+ 244 676 244 676 265.5 697 c 128,-1,4
+ 287 718 287 718 316 718 c 256,5,6
+ 345 718 345 718 366.5 697 c 128,-1,7
+ 388 676 388 676 388 647 c 256,8,9
+ 388 618 388 618 366.5 596.5 c 128,-1,10
+ 345 575 345 575 316 575 c 256,11,0
+ 287 575 287 575 265.5 596.5 c 128,-1,1
+EndSplineSet
+Substitution2: "Single Substitution lookup 12 subtable" uni0307.case
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 9 subtable" uni0307.case
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0307.case
+EndChar

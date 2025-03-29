@@ -1,0 +1,92 @@
+StartChar: tildecomb
+Encoding: 771 771 355
+Width: 0
+GlyphClass: 4
+Flags: W
+TtInstrs:
+PUSHB_2
+ 6
+ 100
+WCVTP
+NPUSHB
+ 41
+ 0
+ 3
+ 0
+ 1
+ 3
+ 89
+ 4
+ 1
+ 2
+ 0
+ 0
+ 1
+ 2
+ 0
+ 105
+ 0
+ 3
+ 3
+ 1
+ 97
+ 6
+ 5
+ 2
+ 1
+ 3
+ 1
+ 81
+ 0
+ 0
+ 0
+ 30
+ 0
+ 29
+ 19
+ 36
+ 34
+ 18
+ 36
+ 7
+ 8
+ 27
+CALL
+PUSHB_2
+ 6
+ 0
+WCVTP
+EndTTInstrs
+AnchorPoint: "Anchor-5" 406 668 basemark 0
+AnchorPoint: "Anchor-5" 369 496 mark 0
+AnchorPoint: "Anchor-1" 369 496 mark 0
+LayerCount: 2
+Fore
+SplineSet
+418 579.5 m 128,-1,1
+ 405 585 405 585 384 596 c 0,2,3
+ 369 605 369 605 360 609 c 128,-1,4
+ 351 613 351 613 340 613 c 0,5,6
+ 322 613 322 613 308.5 603.5 c 128,-1,7
+ 295 594 295 594 288 576 c 1,8,-1
+ 233 576 l 1,9,10
+ 251 622 251 622 281 644 c 128,-1,11
+ 311 666 311 666 350 666 c 0,12,13
+ 369 666 369 666 382.5 660.5 c 128,-1,14
+ 396 655 396 655 413 644 c 0,15,16
+ 426 635 426 635 436 631 c 128,-1,17
+ 446 627 446 627 459 627 c 0,18,19
+ 473 627 473 627 483.5 633.5 c 128,-1,20
+ 494 640 494 640 505 652 c 0,21,22
+ 520 669 520 669 535 669 c 0,23,24
+ 543 669 543 669 548.5 664 c 128,-1,25
+ 554 659 554 659 554 650 c 0,26,27
+ 554 635 554 635 538.5 617 c 128,-1,28
+ 523 599 523 599 499 586.5 c 128,-1,29
+ 475 574 475 574 451 574 c 0,30,0
+ 431 574 431 574 418 579.5 c 128,-1,1
+EndSplineSet
+Substitution2: "Single Substitution lookup 12 subtable" tildecomb.case
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 9 subtable" tildecomb.case
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" tildecomb.case
+EndChar

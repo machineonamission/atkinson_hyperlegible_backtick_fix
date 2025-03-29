@@ -1,0 +1,30 @@
+StartChar: lozenge
+Encoding: 9674 9674 334
+Width: 632
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_6
+ 7
+ 5
+ 3
+ 1
+ 2
+ 50
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+60 314 m 1,0,-1
+ 316 713 l 1,1,-1
+ 572 314 l 1,2,-1
+ 316 -87 l 1,3,-1
+ 60 314 l 1,0,-1
+443 314 m 1,4,-1
+ 316 512 l 1,5,-1
+ 188 314 l 1,6,-1
+ 316 115 l 1,7,-1
+ 443 314 l 1,4,-1
+EndSplineSet
+EndChar

@@ -1,0 +1,22 @@
+StartChar: tildecomb.case
+Encoding: 65551 -1 356
+Width: 0
+GlyphClass: 4
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 1
+PUSHB_1
+ 164
+PUSHB_1
+ 53
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-5" 316 843 basemark 0
+AnchorPoint: "Anchor-5" 316 668 mark 0
+AnchorPoint: "Anchor-1" 316 668 mark 0
+LayerCount: 2
+Fore
+Refer: 355 771 N 1 0 0 1 0 164 2
+EndChar

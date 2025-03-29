@@ -1,0 +1,59 @@
+StartChar: K
+Encoding: 75 75 50
+Width: 632
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 29
+ 9
+ 8
+ 5
+ 2
+ 4
+ 2
+ 0
+ 1
+ 76
+ 1
+ 1
+ 0
+ 0
+ 34
+ 77
+ 3
+ 1
+ 2
+ 2
+ 35
+ 2
+ 78
+ 19
+ 18
+ 18
+ 16
+ 4
+ 8
+ 26
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-1" 306 668 basechar 0
+AnchorPoint: "Anchor-0" 306 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+97 668 m 1,0,-1
+ 155 668 l 1,1,-1
+ 155 290 l 1,2,-1
+ 492 668 l 1,3,-1
+ 564 668 l 1,4,-1
+ 311 391 l 1,5,-1
+ 600 0 l 1,6,-1
+ 530 0 l 1,7,-1
+ 274 348 l 1,8,-1
+ 155 219 l 1,9,-1
+ 155 0 l 1,10,-1
+ 97 0 l 1,11,-1
+ 97 668 l 1,0,-1
+EndSplineSet
+EndChar

@@ -1,0 +1,14 @@
+StartChar: i
+Encoding: 105 105 149
+Width: 632
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-2" 559 10 basechar 0
+AnchorPoint: "Anchor-1" 323 731 basechar 0
+AnchorPoint: "Anchor-0" 305 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 150 305 N 1 0 0 1 0 0 0
+Refer: 339 -1 N 1 0 0 1 7 0 0
+Substitution2: "Single Substitution lookup 11 subtable" dotlessi
+EndChar

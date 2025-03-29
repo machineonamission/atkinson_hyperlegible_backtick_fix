@@ -1,0 +1,9 @@
+StartChar: grave
+Encoding: 96 96 365
+Width: 632
+Flags: WO
+AnchorPoint: "Anchor-1" 333 731 basechar 0
+LayerCount: 2
+Fore
+Refer: 340 768 S 1 0 0 1 -33 0 0
+EndChar

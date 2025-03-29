@@ -1,0 +1,48 @@
+StartChar: gravecomb.case
+Encoding: 65543 -1 341
+Width: 0
+GlyphClass: 4
+Flags: W
+TtInstrs:
+NPUSHB
+ 21
+ 0
+ 0
+ 1
+ 1
+ 0
+ 89
+ 0
+ 0
+ 0
+ 1
+ 95
+ 0
+ 1
+ 0
+ 1
+ 79
+ 18
+ 36
+ 2
+ 8
+ 24
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-5" 502 885 basemark 0
+AnchorPoint: "Anchor-5" 456 668 mark 0
+AnchorPoint: "Anchor-1" 456 668 mark 0
+LayerCount: 2
+Fore
+SplineSet
+330 794.5 m 128,-1,1
+ 324 805 324 805 324 817 c 0,2,3
+ 324 844 324 844 344 865 c 128,-1,4
+ 364 886 364 886 391 886 c 256,5,6
+ 418 886 418 886 443 848 c 2,7,-1
+ 522 729 l 1,8,-1
+ 401 729 l 1,9,-1
+ 350 772 l 2,10,0
+ 336 784 336 784 330 794.5 c 128,-1,1
+EndSplineSet
+EndChar

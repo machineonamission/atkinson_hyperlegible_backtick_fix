@@ -1,0 +1,19 @@
+StartChar: uni2219
+Encoding: 8729 8729 309
+Width: 632
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 1
+PUSHB_1
+ 192
+PUSHB_1
+ 53
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 249 46 N 1 0 0 1 41 192 2
+EndChar

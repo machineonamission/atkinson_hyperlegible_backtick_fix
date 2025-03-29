@@ -1,0 +1,84 @@
+StartChar: O
+Encoding: 79 79 62
+Width: 632
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 41
+ 0
+ 2
+ 2
+ 0
+ 97
+ 0
+ 0
+ 0
+ 40
+ 77
+ 5
+ 1
+ 3
+ 3
+ 1
+ 97
+ 4
+ 1
+ 1
+ 1
+ 41
+ 1
+ 78
+ 16
+ 16
+ 0
+ 0
+ 16
+ 27
+ 16
+ 26
+ 22
+ 20
+ 0
+ 15
+ 0
+ 14
+ 38
+ 6
+ 8
+ 23
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-3" 619 668 basechar 0
+AnchorPoint: "Anchor-2" 572 10 basechar 0
+AnchorPoint: "Anchor-1" 317 668 basechar 0
+AnchorPoint: "Anchor-0" 317 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+168.5 31.5 m 128,-1,1
+ 106 75 106 75 72.5 153 c 128,-1,2
+ 39 231 39 231 39 334 c 256,3,4
+ 39 437 39 437 72.5 515.5 c 128,-1,5
+ 106 594 106 594 168.5 637 c 128,-1,6
+ 231 680 231 680 316 680 c 0,7,8
+ 402 680 402 680 464.5 637 c 128,-1,9
+ 527 594 527 594 560.5 515.5 c 128,-1,10
+ 594 437 594 437 594 334 c 256,11,12
+ 594 231 594 231 560.5 153 c 128,-1,13
+ 527 75 527 75 464.5 31.5 c 128,-1,14
+ 402 -12 402 -12 316 -12 c 0,15,0
+ 231 -12 231 -12 168.5 31.5 c 128,-1,1
+437.5 146 m 128,-1,17
+ 483 212 483 212 483 334 c 256,18,19
+ 483 456 483 456 437.5 522.5 c 128,-1,20
+ 392 589 392 589 316 589 c 0,21,22
+ 241 589 241 589 195.5 522.5 c 128,-1,23
+ 150 456 150 456 150 334 c 0,24,25
+ 150 213 150 213 195.5 146.5 c 128,-1,26
+ 241 80 241 80 316 80 c 0,27,16
+ 392 80 392 80 437.5 146 c 128,-1,17
+EndSplineSet
+Substitution2: "Single Substitution lookup 14 subtable" ordmasculine
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" ordmasculine
+EndChar
