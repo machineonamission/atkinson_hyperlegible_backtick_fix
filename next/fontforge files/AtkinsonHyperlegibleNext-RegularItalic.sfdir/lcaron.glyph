@@ -1,0 +1,24 @@
+StartChar: lcaron
+Encoding: 318 318 164
+Width: 314
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 1
+PUSHB_1
+ 2
+PUSHB_1
+ 53
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-3" 243 498 basechar 0
+AnchorPoint: "Anchor-1" 236 796 basechar 0
+AnchorPoint: "Anchor-0" 77 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 163 108 N 1 0 0 1 0 0 0
+Refer: 355 -1 N 1 0 0 1 170 2 2
+Kerns2: 303 8 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 183 4 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
+EndChar

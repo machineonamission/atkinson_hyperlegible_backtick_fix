@@ -1,0 +1,73 @@
+StartChar: uni0328
+Encoding: 808 808 371
+Width: 0
+GlyphClass: 4
+Flags: W
+TtInstrs:
+PUSHB_2
+ 6
+ 100
+WCVTP
+NPUSHB
+ 33
+ 14
+ 6
+ 5
+ 3
+ 0
+ 74
+ 0
+ 0
+ 1
+ 1
+ 0
+ 89
+ 0
+ 0
+ 0
+ 1
+ 97
+ 2
+ 1
+ 1
+ 0
+ 1
+ 81
+ 0
+ 0
+ 0
+ 17
+ 0
+ 16
+ 43
+ 3
+ 8
+ 23
+CALL
+PUSHB_2
+ 6
+ 0
+WCVTP
+EndTTInstrs
+AnchorPoint: "Anchor-2" 130 10 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-12 -152 m 128,-1,1
+ -36 -134 -36 -134 -36 -103 c 0,2,3
+ -36 -61 -36 -61 -2 -31 c 128,-1,4
+ 32 -1 32 -1 85 17 c 1,5,-1
+ 128 0 l 1,6,7
+ 87 -13 87 -13 55.5 -35.5 c 128,-1,8
+ 24 -58 24 -58 24 -86 c 0,9,10
+ 24 -105 24 -105 39 -113 c 128,-1,11
+ 54 -121 54 -121 75 -121 c 0,12,13
+ 91 -121 91 -121 103 -117 c 1,14,-1
+ 92 -165 l 1,15,16
+ 73 -170 73 -170 49 -170 c 0,17,0
+ 12 -170 12 -170 -12 -152 c 128,-1,1
+EndSplineSet
+Substitution2: "Single Substitution lookup 13 subtable" uni0328.case
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 11 subtable" uni0328.case
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni0328.case
+EndChar

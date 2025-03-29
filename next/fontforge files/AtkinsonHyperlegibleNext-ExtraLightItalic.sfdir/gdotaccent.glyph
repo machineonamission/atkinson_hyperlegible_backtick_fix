@@ -1,0 +1,12 @@
+StartChar: gdotaccent
+Encoding: 289 289 146
+Width: 539
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 353 686 basechar 0
+AnchorPoint: "Anchor-0" 160 -251 basechar 0
+LayerCount: 2
+Fore
+Refer: 143 103 N 1 0 0 1 0 0 0
+Refer: 346 775 N 1 0 0 1 178 0 0
+EndChar

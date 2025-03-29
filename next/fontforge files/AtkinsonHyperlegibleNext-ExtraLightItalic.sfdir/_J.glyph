@@ -1,0 +1,68 @@
+StartChar: J
+Encoding: 74 74 48
+Width: 474
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 34
+ 5
+ 1
+ 0
+ 1
+ 1
+ 76
+ 0
+ 1
+ 1
+ 34
+ 77
+ 0
+ 0
+ 0
+ 2
+ 97
+ 3
+ 1
+ 2
+ 2
+ 41
+ 2
+ 78
+ 0
+ 0
+ 0
+ 19
+ 0
+ 18
+ 19
+ 41
+ 4
+ 8
+ 24
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-1" 452 668 basechar 0
+AnchorPoint: "Anchor-0" 190 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+47.5 30 m 128,-1,1
+ 2 72 2 72 2 147 c 0,2,3
+ 2 172 2 172 6 195 c 1,4,-1
+ 63 206 l 1,5,6
+ 57 179 57 179 57 156 c 0,7,8
+ 57 101 57 101 88 69.5 c 128,-1,9
+ 119 38 119 38 175 38 c 0,10,11
+ 234 38 234 38 269 74 c 128,-1,12
+ 304 110 304 110 318 173 c 2,13,-1
+ 423 668 l 1,14,-1
+ 482 668 l 1,15,-1
+ 374 165 l 2,16,17
+ 356 80 356 80 305 34 c 128,-1,18
+ 254 -12 254 -12 175 -12 c 0,19,0
+ 93 -12 93 -12 47.5 30 c 128,-1,1
+EndSplineSet
+Substitution2: "Single Substitution lookup 14 subtable" uni004A0301
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni004A0301
+EndChar

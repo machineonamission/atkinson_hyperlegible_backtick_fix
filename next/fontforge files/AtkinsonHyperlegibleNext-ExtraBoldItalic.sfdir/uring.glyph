@@ -1,0 +1,14 @@
+StartChar: uring
+Encoding: 367 367 206
+Width: 580
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-3" 610 496 basechar 0
+AnchorPoint: "Anchor-2" 480 10 basechar 0
+AnchorPoint: "Anchor-1" 408 799 basechar 0
+AnchorPoint: "Anchor-0" 238 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 198 117 N 1 0 0 1 0 0 0
+Refer: 362 778 N 1 0 0 1 102 0 0
+EndChar

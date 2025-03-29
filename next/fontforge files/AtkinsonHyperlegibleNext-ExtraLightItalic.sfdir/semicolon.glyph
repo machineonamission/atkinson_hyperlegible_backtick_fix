@@ -1,0 +1,20 @@
+StartChar: semicolon
+Encoding: 59 59 261
+Width: 173
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 1
+PUSHW_1
+ 415
+PUSHB_1
+ 53
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 259 44 N 1 0 0 1 0 0 0
+Refer: 258 46 N 1 0 0 1 89 415 2
+EndChar

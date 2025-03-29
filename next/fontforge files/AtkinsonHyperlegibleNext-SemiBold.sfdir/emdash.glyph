@@ -1,0 +1,41 @@
+StartChar: emdash
+Encoding: 8212 8212 275
+Width: 830
+GlyphClass: 1
+Flags: W
+TtInstrs:
+NPUSHB
+ 21
+ 0
+ 0
+ 1
+ 1
+ 0
+ 87
+ 0
+ 0
+ 0
+ 1
+ 95
+ 0
+ 1
+ 0
+ 1
+ 79
+ 17
+ 16
+ 2
+ 8
+ 24
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+44 303 m 1,0,-1
+ 787 303 l 1,1,-1
+ 787 194 l 1,2,-1
+ 44 194 l 1,3,-1
+ 44 303 l 1,0,-1
+EndSplineSet
+EndChar

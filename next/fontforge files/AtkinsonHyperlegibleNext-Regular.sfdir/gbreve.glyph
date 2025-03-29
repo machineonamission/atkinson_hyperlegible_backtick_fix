@@ -1,0 +1,12 @@
+StartChar: gbreve
+Encoding: 287 287 144
+Width: 558
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 278 689 basechar 0
+AnchorPoint: "Anchor-0" 278 -251 basechar 0
+LayerCount: 2
+Fore
+Refer: 143 103 N 1 0 0 1 0 0 0
+Refer: 360 774 N 1 0 0 1 92 0 0
+EndChar

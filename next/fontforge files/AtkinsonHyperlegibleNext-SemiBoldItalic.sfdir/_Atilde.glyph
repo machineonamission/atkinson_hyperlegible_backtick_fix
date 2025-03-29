@@ -1,0 +1,13 @@
+StartChar: Atilde
+Encoding: 195 195 11
+Width: 665
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-2" 607 10 basechar 0
+AnchorPoint: "Anchor-1" 459 846 basechar 0
+AnchorPoint: "Anchor-0" 280 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 2 65 N 1 0 0 1 0 0 0
+Refer: 365 -1 N 1 0 0 1 115 0 0
+EndChar

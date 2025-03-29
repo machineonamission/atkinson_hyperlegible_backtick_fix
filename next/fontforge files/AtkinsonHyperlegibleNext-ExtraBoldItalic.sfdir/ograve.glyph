@@ -1,0 +1,14 @@
+StartChar: ograve
+Encoding: 242 242 177
+Width: 591
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-3" 616 496 basechar 0
+AnchorPoint: "Anchor-2" 476 10 basechar 0
+AnchorPoint: "Anchor-1" 391 731 basechar 0
+AnchorPoint: "Anchor-0" 243 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 173 111 N 1 0 0 1 0 0 0
+Refer: 349 768 N 1 0 0 1 91 0 0
+EndChar

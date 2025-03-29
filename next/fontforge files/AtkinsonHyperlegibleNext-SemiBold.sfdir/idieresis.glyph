@@ -1,0 +1,14 @@
+StartChar: idieresis
+Encoding: 239 239 153
+Width: 302
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-2" 233 10 basechar 0
+AnchorPoint: "Anchor-1" 161 713 basechar 0
+AnchorPoint: "Anchor-0" 136 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 150 305 N 1 0 0 1 7 0 0
+Refer: 344 776 N 1 0 0 1 -47 0 0
+Kerns2: 317 36 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 303 24 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 282 12 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 280 12 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 183 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 166 22 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 165 22 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 164 22 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 163 22 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 162 22 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 161 22 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 148 22 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 147 22 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 123 22 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
+EndChar

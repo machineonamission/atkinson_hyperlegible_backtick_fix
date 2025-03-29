@@ -1,0 +1,20 @@
+StartChar: colon
+Encoding: 58 58 260
+Width: 237
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 1
+PUSHW_1
+ 357
+PUSHB_1
+ 53
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 258 46 N 1 0 0 1 0 0 0
+Refer: 258 46 N 1 0 0 1 76 357 2
+EndChar

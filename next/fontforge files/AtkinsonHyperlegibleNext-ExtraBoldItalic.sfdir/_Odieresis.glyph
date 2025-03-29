@@ -1,0 +1,14 @@
+StartChar: Odieresis
+Encoding: 214 214 65
+Width: 756
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-3" 829 668 basechar 0
+AnchorPoint: "Anchor-2" 632 10 basechar 0
+AnchorPoint: "Anchor-1" 499 874 basechar 0
+AnchorPoint: "Anchor-0" 325 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 62 79 N 1 0 0 1 0 0 0
+Refer: 345 -1 N 1 0 0 1 135 0 0
+EndChar

@@ -1,0 +1,12 @@
+StartChar: yacute
+Encoding: 253 253 215
+Width: 411
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 297 697 basechar 0
+AnchorPoint: "Anchor-0" 151 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 214 121 N 1 0 0 1 0 0 0
+Refer: 351 769 N 1 0 0 1 143 0 0
+EndChar

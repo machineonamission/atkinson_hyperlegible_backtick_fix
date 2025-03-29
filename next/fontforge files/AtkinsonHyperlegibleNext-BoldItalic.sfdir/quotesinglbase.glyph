@@ -1,0 +1,76 @@
+StartChar: quotesinglbase
+Encoding: 8218 8218 283
+Width: 271
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_6
+ 14
+ 1
+ 1
+ 0
+ 1
+ 76
+MPPEM
+PUSHB_1
+ 27
+LT
+IF
+NPUSHB
+ 11
+ 0
+ 0
+ 0
+ 1
+ 95
+ 0
+ 1
+ 1
+ 39
+ 1
+ 78
+ELSE
+NPUSHB
+ 16
+ 0
+ 0
+ 1
+ 1
+ 0
+ 89
+ 0
+ 0
+ 0
+ 1
+ 95
+ 0
+ 1
+ 0
+ 1
+ 79
+EIF
+PUSHB_5
+ 22
+ 36
+ 2
+ 8
+ 24
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+24.5 26.5 m 128,-1,1
+ 8 50 8 50 8 81 c 0,2,3
+ 8 119 8 119 35 146 c 128,-1,4
+ 62 173 62 173 99 173 c 0,5,6
+ 138 173 138 173 165 147 c 128,-1,7
+ 192 121 192 121 192 85 c 0,8,9
+ 192 69 192 69 187 54 c 128,-1,10
+ 182 39 182 39 170 19 c 2,11,-1
+ 66 -144 l 1,12,-1
+ -19 -144 l 1,13,-1
+ 66 -7 l 1,14,0
+ 41 3 41 3 24.5 26.5 c 128,-1,1
+EndSplineSet
+EndChar

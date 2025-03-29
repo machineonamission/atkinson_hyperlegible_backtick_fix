@@ -1,0 +1,12 @@
+StartChar: racute
+Encoding: 341 341 186
+Width: 349
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 203 707 basechar 0
+AnchorPoint: "Anchor-0" 172 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 185 114 N 1 0 0 1 0 0 0
+Refer: 351 769 N 1 0 0 1 132 0 0
+EndChar

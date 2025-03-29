@@ -1,0 +1,12 @@
+StartChar: Cacute
+Encoding: 262 262 15
+Width: 633
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 341 855 basechar 0
+AnchorPoint: "Anchor-0" 337 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 14 67 N 1 0 0 1 0 0 0
+Refer: 352 -1 N 1 0 0 1 279 0 0
+EndChar

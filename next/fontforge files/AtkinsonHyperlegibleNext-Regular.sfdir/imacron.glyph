@@ -1,0 +1,13 @@
+StartChar: imacron
+Encoding: 299 299 155
+Width: 252
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-2" 178 10 basechar 0
+AnchorPoint: "Anchor-1" 128 668 basechar 0
+AnchorPoint: "Anchor-0" 119 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 150 305 N 1 0 0 1 0 0 0
+Refer: 366 772 N 1 0 0 1 -50 0 0
+EndChar

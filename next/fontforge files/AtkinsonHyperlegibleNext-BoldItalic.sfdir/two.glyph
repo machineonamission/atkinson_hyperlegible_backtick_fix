@@ -1,0 +1,71 @@
+StartChar: two
+Encoding: 50 50 231
+Width: 580
+GlyphClass: 5
+Flags: W
+TtInstrs:
+NPUSHB
+ 35
+ 8
+ 7
+ 2
+ 2
+ 0
+ 1
+ 76
+ 0
+ 0
+ 0
+ 1
+ 97
+ 0
+ 1
+ 1
+ 40
+ 77
+ 0
+ 2
+ 2
+ 3
+ 95
+ 0
+ 3
+ 3
+ 35
+ 3
+ 78
+ 17
+ 22
+ 36
+ 36
+ 4
+ 8
+ 26
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+321.5 325.5 m 128,-1,1
+ 436 417 436 417 436 497 c 0,2,3
+ 436 533 436 533 411 553.5 c 128,-1,4
+ 386 574 386 574 344 574 c 0,5,6
+ 259 574 259 574 222 486 c 1,7,-1
+ 95 538 l 1,8,9
+ 131 611 131 611 198.5 645.5 c 128,-1,10
+ 266 680 266 680 348 680 c 0,11,12
+ 449 680 449 680 514 634 c 128,-1,13
+ 579 588 579 588 579 505 c 0,14,15
+ 579 423 579 423 522 351.5 c 128,-1,16
+ 465 280 465 280 385.5 227 c 128,-1,17
+ 306 174 306 174 199 118 c 1,18,-1
+ 509 118 l 1,19,-1
+ 485 0 l 1,20,-1
+ -23 0 l 1,21,-1
+ 1 118 l 1,22,0
+ 207 234 207 234 321.5 325.5 c 128,-1,1
+EndSplineSet
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 10 subtable" two.tf
+Substitution2: "'sups' Superscript in Latin lookup 6 subtable" uni00B2
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni00B2 two.tf
+EndChar

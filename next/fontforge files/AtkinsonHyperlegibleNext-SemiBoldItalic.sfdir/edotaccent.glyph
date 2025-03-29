@@ -1,0 +1,13 @@
+StartChar: edotaccent
+Encoding: 279 279 138
+Width: 557
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-2" 432 10 basechar 0
+AnchorPoint: "Anchor-1" 380 713 basechar 0
+AnchorPoint: "Anchor-0" 228 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 133 101 N 1 0 0 1 0 0 0
+Refer: 346 775 N 1 0 0 1 172 0 0
+EndChar

@@ -1,0 +1,13 @@
+StartChar: adieresis
+Encoding: 228 228 116
+Width: 545
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-2" 449 10 basechar 0
+AnchorPoint: "Anchor-1" 358 713 basechar 0
+AnchorPoint: "Anchor-0" 217 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 112 97 N 1 0 0 1 0 0 0
+Refer: 344 776 N 1 0 0 1 52 0 0
+EndChar

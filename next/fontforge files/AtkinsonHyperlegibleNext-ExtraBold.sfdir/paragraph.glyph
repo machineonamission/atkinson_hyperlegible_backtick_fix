@@ -1,0 +1,64 @@
+StartChar: paragraph
+Encoding: 182 182 299
+Width: 527
+GlyphClass: 1
+Flags: W
+TtInstrs:
+NPUSHB
+ 32
+ 16
+ 1
+ 2
+ 1
+ 1
+ 76
+ 3
+ 1
+ 1
+ 1
+ 0
+ 95
+ 0
+ 0
+ 0
+ 34
+ 77
+ 4
+ 1
+ 2
+ 2
+ 39
+ 2
+ 78
+ 17
+ 17
+ 17
+ 17
+ 37
+ 5
+ 8
+ 27
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+67.5 363 m 128,-1,1
+ 28 413 28 413 28 479 c 0,2,3
+ 28 530 28 530 53.5 573.5 c 128,-1,4
+ 79 617 79 617 122.5 642.5 c 128,-1,5
+ 166 668 166 668 217 668 c 2,6,-1
+ 503 668 l 1,7,-1
+ 503 601 l 1,8,-1
+ 455 601 l 1,9,-1
+ 455 -162 l 1,10,-1
+ 357 -162 l 1,11,-1
+ 357 601 l 1,12,-1
+ 266 601 l 1,13,-1
+ 266 -162 l 1,14,-1
+ 168 -162 l 1,15,-1
+ 168 296 l 1,16,0
+ 107 313 107 313 67.5 363 c 128,-1,1
+EndSplineSet
+Kerns2: 148 20 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
+EndChar

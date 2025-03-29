@@ -1,0 +1,14 @@
+StartChar: otilde
+Encoding: 245 245 180
+Width: 577
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-3" 553 496 basechar 0
+AnchorPoint: "Anchor-2" 516 10 basechar 0
+AnchorPoint: "Anchor-1" 288 688 basechar 0
+AnchorPoint: "Anchor-0" 288 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 173 111 N 1 0 0 1 0 0 0
+Refer: 364 771 N 1 0 0 1 62 0 0
+EndChar

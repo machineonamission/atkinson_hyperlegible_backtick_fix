@@ -1,0 +1,11 @@
+StartChar: zero.tf
+Encoding: 65539 -1 239
+Width: 632
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+Refer: 229 48 N 1 0 0 1 0 0 0
+Substitution2: "'pnum' Proportional Numbers in Latin lookup 9 subtable" zero
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" zero
+EndChar

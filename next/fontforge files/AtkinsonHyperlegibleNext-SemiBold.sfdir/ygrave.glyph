@@ -1,0 +1,12 @@
+StartChar: ygrave
+Encoding: 7923 7923 218
+Width: 503
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 251 719 basechar 0
+AnchorPoint: "Anchor-0" 252 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 214 121 N 1 0 0 1 0 0 0
+Refer: 349 768 N 1 0 0 1 63 0 0
+EndChar

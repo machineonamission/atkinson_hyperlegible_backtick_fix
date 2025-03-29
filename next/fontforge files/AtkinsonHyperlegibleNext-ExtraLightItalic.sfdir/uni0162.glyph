@@ -1,0 +1,109 @@
+StartChar: uni0162
+Encoding: 354 354 85
+Width: 524
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 63
+ 8
+ 1
+ 7
+ 4
+ 27
+ 19
+ 2
+ 6
+ 7
+ 18
+ 1
+ 5
+ 6
+ 3
+ 76
+ 0
+ 4
+ 0
+ 7
+ 6
+ 4
+ 7
+ 105
+ 2
+ 1
+ 0
+ 0
+ 1
+ 95
+ 0
+ 1
+ 1
+ 34
+ 77
+ 8
+ 1
+ 3
+ 3
+ 35
+ 77
+ 0
+ 6
+ 6
+ 5
+ 97
+ 0
+ 5
+ 5
+ 45
+ 5
+ 78
+ 23
+ 19
+ 35
+ 36
+ 34
+ 17
+ 17
+ 17
+ 16
+ 9
+ 8
+ 31
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-1" 351 668 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+312 618 m 1,0,-1
+ 87 618 l 1,1,-1
+ 97 668 l 1,2,-1
+ 605 668 l 1,3,-1
+ 595 618 l 1,4,-1
+ 370 618 l 1,5,-1
+ 238 0 l 1,6,-1
+ 228 0 l 1,7,-1
+ 188 -47 l 1,8,9
+ 199 -44 199 -44 209 -44 c 0,10,11
+ 235 -44 235 -44 252 -59.5 c 128,-1,12
+ 269 -75 269 -75 269 -97 c 0,13,14
+ 269 -132 269 -132 242.5 -154.5 c 128,-1,15
+ 216 -177 216 -177 177 -177 c 0,16,17
+ 134 -177 134 -177 93 -147 c 1,18,-1
+ 111 -123 l 1,19,20
+ 144 -145 144 -145 174 -145 c 0,21,22
+ 196 -145 196 -145 210 -133.5 c 128,-1,23
+ 224 -122 224 -122 224 -106 c 0,24,25
+ 224 -77 224 -77 182 -77 c 2,26,-1
+ 155 -79 l 2,27,28
+ 148 -79 148 -79 144 -76 c 128,-1,29
+ 140 -73 140 -73 140 -68 c 0,30,31
+ 140 -59 140 -59 147 -52 c 2,32,-1
+ 190 0 l 1,33,-1
+ 180 0 l 1,34,-1
+ 312 618 l 1,0,-1
+EndSplineSet
+Kerns2: 180 -35 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 176 -55 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 175 -55 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 155 65 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 154 40 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 153 70 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 152 70 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 148 30 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 121 -35 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 118 -45 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 116 -50 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 115 -30 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 114 -35 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
+Substitution2: "'locl' Localized Forms in Latin lookup 4 subtable" uni021A
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni021A
+EndChar

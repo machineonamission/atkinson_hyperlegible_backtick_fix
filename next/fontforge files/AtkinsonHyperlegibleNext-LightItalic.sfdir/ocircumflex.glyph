@@ -1,0 +1,14 @@
+StartChar: ocircumflex
+Encoding: 244 244 175
+Width: 538
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-3" 575 496 basechar 0
+AnchorPoint: "Anchor-2" 437 10 basechar 0
+AnchorPoint: "Anchor-1" 359 687 basechar 0
+AnchorPoint: "Anchor-0" 216 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 173 111 N 1 0 0 1 0 0 0
+Refer: 356 770 N 1 0 0 1 87 0 0
+EndChar

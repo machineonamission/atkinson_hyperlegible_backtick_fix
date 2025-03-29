@@ -1,0 +1,47 @@
+StartChar: comma
+Encoding: 44 44 259
+Width: 187
+GlyphClass: 1
+Flags: W
+TtInstrs:
+NPUSHB
+ 20
+ 13
+ 1
+ 1
+ 0
+ 1
+ 76
+ 0
+ 0
+ 1
+ 0
+ 133
+ 0
+ 1
+ 1
+ 118
+ 21
+ 36
+ 2
+ 8
+ 24
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+5 10 m 128,-1,1
+ -5 24 -5 24 -5 43 c 0,2,3
+ -5 66 -5 66 11 82.5 c 128,-1,4
+ 27 99 27 99 49 99 c 0,5,6
+ 74 99 74 99 89.5 83 c 128,-1,7
+ 105 67 105 67 105 45 c 0,8,9
+ 105 26 105 26 92 6 c 2,10,-1
+ 10 -129 l 1,11,-1
+ -36 -129 l 1,12,-1
+ 33 -11 l 1,13,0
+ 15 -4 15 -4 5 10 c 128,-1,1
+EndSplineSet
+Kerns2: 160 23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 159 23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0" 158 23 "'kern' Horizontal Kerning in Latin lookup 0 per glyph data 0"
+EndChar

@@ -1,0 +1,12 @@
+StartChar: scaron
+Encoding: 353 353 190
+Width: 471
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 323 689 basechar 0
+AnchorPoint: "Anchor-0" 201 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 188 115 N 1 0 0 1 0 0 0
+Refer: 358 780 N 1 0 0 1 30 0 0
+EndChar

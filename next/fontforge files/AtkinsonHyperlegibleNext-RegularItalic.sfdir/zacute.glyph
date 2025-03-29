@@ -1,0 +1,12 @@
+StartChar: zacute
+Encoding: 378 378 220
+Width: 460
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 333 707 basechar 0
+AnchorPoint: "Anchor-0" 175 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 219 122 N 1 0 0 1 0 0 0
+Refer: 351 769 N 1 0 0 1 165 0 0
+EndChar

@@ -1,0 +1,13 @@
+StartChar: Yacute
+Encoding: 221 221 104
+Width: 610
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 434 872 basechar 0
+AnchorPoint: "Anchor-0" 252 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 103 89 N 1 0 0 1 0 0 0
+Refer: 352 -1 N 1 0 0 1 216 0 0
+Kerns2: 176 -58 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 155 36 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 153 36 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 152 22 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 148 8 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 137 -54 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 121 -34 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 116 -40 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
+EndChar

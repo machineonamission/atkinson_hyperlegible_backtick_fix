@@ -1,0 +1,13 @@
+StartChar: Amacron
+Encoding: 256 256 8
+Width: 650
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-2" 642 10 basechar 0
+AnchorPoint: "Anchor-1" 325 835 basechar 0
+AnchorPoint: "Anchor-0" 325 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 2 65 N 1 0 0 1 0 0 0
+Refer: 367 -1 N 1 0 0 1 141 0 0
+EndChar

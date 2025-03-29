@@ -1,0 +1,15 @@
+StartChar: ohungarumlaut
+Encoding: 337 337 178
+Width: 560
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-3" 592 496 basechar 0
+AnchorPoint: "Anchor-2" 454 10 basechar 0
+AnchorPoint: "Anchor-1" 465 714 basechar 0
+AnchorPoint: "Anchor-0" 227 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 173 111 N 1 0 0 1 0 0 0
+Refer: 353 779 N 1 0 0 1 100 0 0
+Kerns2: 272 -62 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
+EndChar

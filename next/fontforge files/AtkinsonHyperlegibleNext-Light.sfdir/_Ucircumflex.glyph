@@ -1,0 +1,14 @@
+StartChar: Ucircumflex
+Encoding: 219 219 89
+Width: 680
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-3" 667 668 basechar 0
+AnchorPoint: "Anchor-2" 515 10 basechar 0
+AnchorPoint: "Anchor-1" 340 854 basechar 0
+AnchorPoint: "Anchor-0" 340 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 87 85 N 1 0 0 1 0 0 0
+Refer: 357 -1 N 1 0 0 1 159 0 0
+EndChar

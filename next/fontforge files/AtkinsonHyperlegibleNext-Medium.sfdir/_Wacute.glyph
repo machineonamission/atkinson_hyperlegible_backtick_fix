@@ -1,0 +1,13 @@
+StartChar: Wacute
+Encoding: 7810 7810 98
+Width: 870
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 435 872 basechar 0
+AnchorPoint: "Anchor-0" 435 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 97 87 N 1 0 0 1 0 0 0
+Refer: 352 -1 N 1 0 0 1 348 0 0
+Kerns2: 155 33 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 154 23 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 153 36 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 152 33 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 148 8 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
+EndChar

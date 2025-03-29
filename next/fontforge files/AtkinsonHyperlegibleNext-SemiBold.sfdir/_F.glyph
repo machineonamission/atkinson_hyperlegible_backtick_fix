@@ -1,0 +1,61 @@
+StartChar: F
+Encoding: 70 70 32
+Width: 562
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 32
+ 0
+ 2
+ 0
+ 3
+ 4
+ 2
+ 3
+ 103
+ 0
+ 1
+ 1
+ 0
+ 95
+ 0
+ 0
+ 0
+ 34
+ 77
+ 0
+ 4
+ 4
+ 35
+ 4
+ 78
+ 17
+ 17
+ 17
+ 17
+ 16
+ 5
+ 8
+ 27
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-1" 281 668 basechar 0
+AnchorPoint: "Anchor-0" 281 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+65 668 m 1,0,-1
+ 525 668 l 1,1,-1
+ 525 552 l 1,2,-1
+ 198 552 l 1,3,-1
+ 198 383 l 1,4,-1
+ 521 383 l 1,5,-1
+ 521 267 l 1,6,-1
+ 198 267 l 1,7,-1
+ 198 0 l 1,8,-1
+ 65 0 l 1,9,-1
+ 65 668 l 1,0,-1
+EndSplineSet
+Kerns2: 155 24 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 154 8 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 153 24 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 152 24 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
+EndChar

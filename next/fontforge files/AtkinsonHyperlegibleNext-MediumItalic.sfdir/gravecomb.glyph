@@ -1,0 +1,52 @@
+StartChar: gravecomb
+Encoding: 768 768 349
+Width: 0
+GlyphClass: 4
+Flags: W
+TtInstrs:
+PUSHB_2
+ 6
+ 100
+WCVTP
+NPUSHB
+ 14
+ 0
+ 0
+ 1
+ 0
+ 133
+ 0
+ 1
+ 1
+ 118
+ 19
+ 35
+ 2
+ 8
+ 24
+CALL
+PUSHB_2
+ 6
+ 0
+WCVTP
+EndTTInstrs
+AnchorPoint: "Anchor-5" 276 715 basemark 0
+AnchorPoint: "Anchor-5" 229 496 mark 0
+AnchorPoint: "Anchor-1" 229 496 mark 0
+LayerCount: 2
+Fore
+SplineSet
+129 663 m 0,1,2
+ 129 682 129 682 143 698 c 128,-1,3
+ 157 714 157 714 178 714 c 0,4,5
+ 190 714 190 714 198.5 706.5 c 128,-1,6
+ 207 699 207 699 218 682 c 2,7,-1
+ 281 572 l 1,8,-1
+ 203 572 l 1,9,-1
+ 157 616 l 2,10,0
+ 129 643 129 643 129 663 c 0,1,2
+EndSplineSet
+Substitution2: "Single Substitution lookup 13 subtable" gravecomb.case
+Substitution2: "'case' Case-Sensitive Forms in Latin lookup 11 subtable" gravecomb.case
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" gravecomb.case
+EndChar

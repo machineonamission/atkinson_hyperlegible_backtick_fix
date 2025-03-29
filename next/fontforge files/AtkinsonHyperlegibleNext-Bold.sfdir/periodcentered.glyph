@@ -1,0 +1,19 @@
+StartChar: periodcentered
+Encoding: 183 183 267
+Width: 296
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 1
+PUSHB_1
+ 169
+PUSHB_1
+ 53
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+Refer: 258 46 N 1 0 0 1 11 169 2
+EndChar

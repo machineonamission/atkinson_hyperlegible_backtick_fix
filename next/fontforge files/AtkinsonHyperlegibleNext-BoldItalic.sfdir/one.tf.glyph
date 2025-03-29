@@ -1,0 +1,65 @@
+StartChar: one.tf
+Encoding: 65540 -1 240
+Width: 632
+GlyphClass: 1
+Flags: W
+TtInstrs:
+NPUSHB
+ 34
+ 0
+ 2
+ 0
+ 1
+ 0
+ 2
+ 1
+ 103
+ 0
+ 3
+ 3
+ 34
+ 77
+ 4
+ 1
+ 0
+ 0
+ 5
+ 96
+ 0
+ 5
+ 5
+ 35
+ 5
+ 78
+ 17
+ 17
+ 19
+ 17
+ 17
+ 16
+ 6
+ 8
+ 28
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+75 117 m 1,0,-1
+ 231 117 l 1,1,-1
+ 303 457 l 1,2,-1
+ 147 457 l 1,3,-1
+ 171 571 l 1,4,5
+ 243 571 243 571 276.5 576.5 c 128,-1,6
+ 310 582 310 582 332 601.5 c 128,-1,7
+ 354 621 354 621 383 668 c 1,8,-1
+ 489 668 l 1,9,-1
+ 371 117 l 1,10,-1
+ 504 117 l 1,11,-1
+ 480 0 l 1,12,-1
+ 50 0 l 1,13,-1
+ 75 117 l 1,0,-1
+EndSplineSet
+Substitution2: "'pnum' Proportional Numbers in Latin lookup 9 subtable" one
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" one
+EndChar

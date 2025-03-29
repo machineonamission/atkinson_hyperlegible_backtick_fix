@@ -1,0 +1,12 @@
+StartChar: ncaron
+Encoding: 328 328 170
+Width: 566
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 283 708 basechar 0
+AnchorPoint: "Anchor-0" 284 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 168 110 N 1 0 0 1 0 0 0
+Refer: 358 780 N 1 0 0 1 57 0 0
+EndChar

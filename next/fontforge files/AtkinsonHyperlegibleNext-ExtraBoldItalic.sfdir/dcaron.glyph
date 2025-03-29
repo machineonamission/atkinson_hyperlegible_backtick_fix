@@ -1,0 +1,14 @@
+StartChar: dcaron
+Encoding: 271 271 130
+Width: 723
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-3" 634 496 basechar 0
+AnchorPoint: "Anchor-1" 423 796 basechar 0
+AnchorPoint: "Anchor-0" 254 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 129 100 N 1 0 0 1 0 0 0
+Refer: 355 -1 N 1 0 0 1 552 0 0
+Kerns2: 183 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
+EndChar

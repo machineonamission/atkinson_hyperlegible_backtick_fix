@@ -1,0 +1,11 @@
+StartChar: nine.tf
+Encoding: 65548 -1 248
+Width: 632
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+Refer: 238 57 N 1 0 0 1 21 0 0
+Substitution2: "'pnum' Proportional Numbers in Latin lookup 9 subtable" nine
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" nine
+EndChar

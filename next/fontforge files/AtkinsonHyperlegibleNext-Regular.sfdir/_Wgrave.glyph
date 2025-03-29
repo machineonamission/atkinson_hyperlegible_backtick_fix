@@ -1,0 +1,13 @@
+StartChar: Wgrave
+Encoding: 7808 7808 101
+Width: 856
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 428 864 basechar 0
+AnchorPoint: "Anchor-0" 428 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 97 87 N 1 0 0 1 0 0 0
+Refer: 350 -1 N 1 0 0 1 251 0 0
+Kerns2: 155 40 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 154 30 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 153 40 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 152 40 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
+EndChar

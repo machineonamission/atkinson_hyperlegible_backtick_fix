@@ -1,0 +1,75 @@
+StartChar: four
+Encoding: 52 52 233
+Width: 614
+GlyphClass: 5
+Flags: W
+TtInstrs:
+NPUSHB
+ 42
+ 12
+ 1
+ 2
+ 1
+ 1
+ 76
+ 6
+ 5
+ 2
+ 2
+ 3
+ 1
+ 0
+ 4
+ 2
+ 0
+ 104
+ 0
+ 1
+ 1
+ 34
+ 77
+ 0
+ 4
+ 4
+ 35
+ 4
+ 78
+ 11
+ 11
+ 11
+ 13
+ 11
+ 13
+ 17
+ 17
+ 17
+ 18
+ 16
+ 7
+ 8
+ 27
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+351 165 m 1,0,-1
+ 19 165 l 1,1,-1
+ 36 244 l 1,2,-1
+ 448 668 l 1,3,-1
+ 542 668 l 1,4,-1
+ 452 244 l 1,5,-1
+ 574 244 l 1,6,-1
+ 557 165 l 1,7,-1
+ 435 165 l 1,8,-1
+ 400 0 l 1,9,-1
+ 316 0 l 1,10,-1
+ 351 165 l 1,0,-1
+368 244 m 1,11,-1
+ 434 553 l 1,12,-1
+ 133 244 l 1,13,-1
+ 368 244 l 1,11,-1
+EndSplineSet
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 10 subtable" four.tf
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" four.tf
+EndChar

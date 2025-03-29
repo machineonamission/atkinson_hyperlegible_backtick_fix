@@ -1,0 +1,13 @@
+StartChar: Ycircumflex
+Encoding: 374 374 105
+Width: 631
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 445 877 basechar 0
+AnchorPoint: "Anchor-0" 263 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 103 89 N 1 0 0 1 0 0 0
+Refer: 357 -1 N 1 0 0 1 89 0 0
+Kerns2: 176 -63 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 155 34 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 153 34 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 152 17 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 148 10 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 137 -56 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 121 -40 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 116 -44 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
+EndChar

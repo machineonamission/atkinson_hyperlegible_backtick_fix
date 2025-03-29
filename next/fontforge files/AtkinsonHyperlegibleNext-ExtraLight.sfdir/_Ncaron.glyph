@@ -1,0 +1,13 @@
+StartChar: Ncaron
+Encoding: 327 327 59
+Width: 663
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 332 838 basechar 0
+AnchorPoint: "Anchor-0" 332 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 57 78 N 1 0 0 1 0 0 0
+Refer: 359 -1 N 1 0 0 1 168 0 0
+Kerns2: 152 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 148 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
+EndChar

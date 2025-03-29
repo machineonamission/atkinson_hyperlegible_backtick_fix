@@ -1,0 +1,110 @@
+StartChar: Aogonek
+Encoding: 260 260 9
+Width: 665
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 69
+ 25
+ 1
+ 5
+ 2
+ 5
+ 1
+ 1
+ 0
+ 20
+ 1
+ 3
+ 1
+ 3
+ 76
+ 12
+ 1
+ 1
+ 1
+ 75
+ 7
+ 1
+ 5
+ 0
+ 0
+ 1
+ 5
+ 0
+ 104
+ 0
+ 2
+ 2
+ 34
+ 77
+ 0
+ 1
+ 1
+ 35
+ 77
+ 0
+ 3
+ 3
+ 4
+ 97
+ 6
+ 1
+ 4
+ 4
+ 45
+ 4
+ 78
+ 24
+ 24
+ 0
+ 0
+ 24
+ 26
+ 24
+ 26
+ 0
+ 23
+ 0
+ 22
+ 38
+ 17
+ 17
+ 22
+ 8
+ 8
+ 26
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-1" 422 668 basechar 0
+AnchorPoint: "Anchor-0" 280 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+430 -153.5 m 128,-1,1
+ 390 -133 390 -133 390 -92 c 0,2,3
+ 390 -64 390 -64 413 -38 c 128,-1,4
+ 436 -12 436 -12 464 2 c 1,5,-1
+ 447 130 l 1,6,-1
+ 173 130 l 1,7,-1
+ 101 0 l 1,8,-1
+ -46 0 l 1,9,-1
+ 349 668 l 1,10,-1
+ 494 668 l 1,11,-1
+ 605 0 l 1,12,13
+ 565 -8 565 -8 532 -28 c 128,-1,14
+ 499 -48 499 -48 499 -74 c 0,15,16
+ 499 -90 499 -90 511.5 -97.5 c 128,-1,17
+ 524 -105 524 -105 544 -105 c 0,18,19
+ 567 -105 567 -105 584 -100 c 1,20,-1
+ 570 -170 l 1,21,22
+ 546 -174 546 -174 526 -174 c 0,23,0
+ 470 -174 470 -174 430 -153.5 c 128,-1,1
+433 239 m 1,24,-1
+ 395 528 l 1,25,-1
+ 233 239 l 1,26,-1
+ 433 239 l 1,24,-1
+EndSplineSet
+Kerns2: 278 -3 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 160 77 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 159 77 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 158 77 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
+EndChar

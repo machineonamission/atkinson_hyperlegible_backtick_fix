@@ -1,0 +1,22 @@
+StartChar: uni0304.case
+Encoding: 65561 -1 367
+Width: 0
+GlyphClass: 4
+Flags: W
+TtInstrs:
+PUSHB_2
+ 0
+ 1
+PUSHB_1
+ 171
+PUSHB_1
+ 53
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-5" 188 839 basemark 0
+AnchorPoint: "Anchor-5" 188 668 mark 0
+AnchorPoint: "Anchor-1" 188 668 mark 0
+LayerCount: 2
+Fore
+Refer: 366 772 N 1 0 0 1 0 171 2
+EndChar

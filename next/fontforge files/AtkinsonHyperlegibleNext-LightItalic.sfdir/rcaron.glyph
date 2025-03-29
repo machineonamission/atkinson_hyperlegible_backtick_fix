@@ -1,0 +1,12 @@
+StartChar: rcaron
+Encoding: 345 345 187
+Width: 336
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 279 681 basechar 0
+AnchorPoint: "Anchor-0" 111 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 185 114 N 1 0 0 1 0 0 0
+Refer: 358 780 N 1 0 0 1 8 0 0
+EndChar

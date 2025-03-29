@@ -1,0 +1,48 @@
+StartChar: dotlessi
+Encoding: 305 305 150
+Width: 288
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 22
+ 0
+ 0
+ 0
+ 1
+ 95
+ 0
+ 1
+ 1
+ 37
+ 77
+ 0
+ 2
+ 2
+ 35
+ 2
+ 78
+ 17
+ 17
+ 16
+ 3
+ 8
+ 25
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-2" 226 10 basechar 0
+AnchorPoint: "Anchor-1" 155 496 basechar 0
+AnchorPoint: "Anchor-0" 129 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+99 400 m 1,0,-1
+ 22 400 l 1,1,-1
+ 22 496 l 1,2,-1
+ 226 496 l 1,3,-1
+ 226 0 l 1,4,-1
+ 99 0 l 1,5,-1
+ 99 400 l 1,0,-1
+EndSplineSet
+Kerns2: 183 0 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
+EndChar

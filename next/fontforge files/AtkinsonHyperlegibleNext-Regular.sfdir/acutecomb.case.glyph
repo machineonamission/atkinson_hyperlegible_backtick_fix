@@ -1,0 +1,42 @@
+StartChar: acutecomb.case
+Encoding: 65553 -1 352
+Width: 0
+GlyphClass: 4
+Flags: W
+TtInstrs:
+NPUSHB
+ 14
+ 0
+ 0
+ 1
+ 0
+ 133
+ 0
+ 1
+ 1
+ 118
+ 22
+ 33
+ 2
+ 8
+ 24
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-5" 76 864 basemark 0
+AnchorPoint: "Anchor-5" 76 668 mark 0
+AnchorPoint: "Anchor-1" 76 668 mark 0
+LayerCount: 2
+Fore
+SplineSet
+155.5 857.5 m 128,-1,1
+ 166 863 166 863 176 863 c 0,2,3
+ 192 863 192 863 202.5 853.5 c 128,-1,4
+ 213 844 213 844 213 828 c 0,5,6
+ 213 815 213 815 204.5 804 c 128,-1,7
+ 196 793 196 793 173 779 c 2,8,-1
+ 116 744 l 1,9,-1
+ 40 744 l 1,10,-1
+ 131 838 l 2,11,0
+ 145 852 145 852 155.5 857.5 c 128,-1,1
+EndSplineSet
+EndChar

@@ -1,0 +1,14 @@
+StartChar: uni021B
+Encoding: 539 539 197
+Width: 349
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-3" 229 549 basechar 0
+AnchorPoint: "Anchor-1" 171 496 basechar 0
+AnchorPoint: "Anchor-0" 202 -250 basechar 0
+LayerCount: 2
+Fore
+Refer: 194 116 N 1 0 0 1 0 0 0
+Refer: 369 806 N 1 0 0 1 59 0 0
+Kerns2: 160 43 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 159 43 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 158 43 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
+EndChar

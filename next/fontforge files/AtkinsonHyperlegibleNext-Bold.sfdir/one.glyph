@@ -1,0 +1,54 @@
+StartChar: one
+Encoding: 49 49 230
+Width: 442
+GlyphClass: 5
+Flags: W
+TtInstrs:
+NPUSHB
+ 26
+ 0
+ 1
+ 0
+ 0
+ 3
+ 1
+ 0
+ 103
+ 0
+ 2
+ 2
+ 34
+ 77
+ 0
+ 3
+ 3
+ 35
+ 3
+ 78
+ 17
+ 19
+ 17
+ 16
+ 4
+ 8
+ 26
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+200 457 m 1,0,-1
+ 43 457 l 1,1,-1
+ 43 571 l 1,2,3
+ 102 571 102 571 135.5 577 c 128,-1,4
+ 169 583 169 583 193 604 c 128,-1,5
+ 217 625 217 625 234 668 c 1,6,-1
+ 340 668 l 1,7,-1
+ 340 0 l 1,8,-1
+ 200 0 l 1,9,-1
+ 200 457 l 1,0,-1
+EndSplineSet
+Substitution2: "'tnum' Tabular Numbers in Latin lookup 10 subtable" one.tf
+Substitution2: "'sups' Superscript in Latin lookup 6 subtable" uni00B9
+AlternateSubs2: "'aalt' Access All Alternates in Latin lookup 0 subtable" uni00B9 one.tf
+EndChar

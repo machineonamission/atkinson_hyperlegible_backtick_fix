@@ -1,0 +1,13 @@
+StartChar: ij
+Encoding: 307 307 157
+Width: 525
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-2" 207 10 basechar 0
+AnchorPoint: "Anchor-1" 404 731 basechar 0
+AnchorPoint: "Anchor-0" 400 -251 basechar 0
+LayerCount: 2
+Fore
+Refer: 149 105 N 1 0 0 1 0 0 0
+Refer: 158 106 N 1 0 0 1 274 0 0
+EndChar

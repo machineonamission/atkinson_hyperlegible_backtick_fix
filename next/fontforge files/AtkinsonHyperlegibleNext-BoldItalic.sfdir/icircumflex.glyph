@@ -1,0 +1,14 @@
+StartChar: icircumflex
+Encoding: 238 238 152
+Width: 301
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-2" 192 10 basechar 0
+AnchorPoint: "Anchor-1" 262 721 basechar 0
+AnchorPoint: "Anchor-0" 79 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 150 305 N 1 0 0 1 0 0 0
+Refer: 356 770 N 1 0 0 1 -70 0 0
+Kerns2: 338 24 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 337 24 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 304 24 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 303 40 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 299 24 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 294 33 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 293 33 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 288 40 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 286 40 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 282 33 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 280 33 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 265 40 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 183 24 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 166 24 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 165 24 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 164 24 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 163 24 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 162 24 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 161 24 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 148 24 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 147 24 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 123 24 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
+EndChar

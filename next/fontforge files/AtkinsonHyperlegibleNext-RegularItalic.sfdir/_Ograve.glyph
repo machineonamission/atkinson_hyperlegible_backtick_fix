@@ -1,0 +1,14 @@
+StartChar: Ograve
+Encoding: 210 210 66
+Width: 714
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-3" 791 668 basechar 0
+AnchorPoint: "Anchor-2" 598 10 basechar 0
+AnchorPoint: "Anchor-1" 479 864 basechar 0
+AnchorPoint: "Anchor-0" 306 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 62 79 N 1 0 0 1 0 0 0
+Refer: 350 -1 N 1 0 0 1 176 0 0
+EndChar

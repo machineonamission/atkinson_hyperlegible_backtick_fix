@@ -1,0 +1,12 @@
+StartChar: Zcaron
+Encoding: 381 381 110
+Width: 616
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 441 871 basechar 0
+AnchorPoint: "Anchor-0" 256 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 108 90 N 1 0 0 1 0 0 0
+Refer: 359 -1 N 1 0 0 1 86 0 0
+EndChar

@@ -1,0 +1,13 @@
+StartChar: igrave
+Encoding: 236 236 154
+Width: 236
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-2" 159 10 basechar 0
+AnchorPoint: "Anchor-1" 116 701 basechar 0
+AnchorPoint: "Anchor-0" 114 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 150 305 N 1 0 0 1 0 0 0
+Refer: 349 768 S 1 0 0 1 -49 0 0
+EndChar

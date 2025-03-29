@@ -1,0 +1,13 @@
+StartChar: Ygrave
+Encoding: 7922 7922 107
+Width: 529
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 266 855 basechar 0
+AnchorPoint: "Anchor-0" 265 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 103 89 N 1 0 0 1 0 0 0
+Refer: 350 -1 N 1 0 0 1 100 0 0
+Kerns2: 176 -40 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 155 45 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 154 30 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 153 45 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 152 40 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 137 -45 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 121 -10 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0" 116 -25 "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"
+EndChar

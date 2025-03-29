@@ -1,0 +1,13 @@
+StartChar: abreve
+Encoding: 259 259 114
+Width: 514
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-2" 455 10 basechar 0
+AnchorPoint: "Anchor-1" 252 682 basechar 0
+AnchorPoint: "Anchor-0" 252 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 112 97 N 1 0 0 1 0 0 0
+Refer: 360 774 N 1 0 0 1 83 0 0
+EndChar

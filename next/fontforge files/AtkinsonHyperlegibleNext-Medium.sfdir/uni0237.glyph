@@ -1,0 +1,52 @@
+StartChar: uni0237
+Encoding: 567 567 159
+Width: 251
+GlyphClass: 2
+Flags: W
+TtInstrs:
+NPUSHB
+ 22
+ 0
+ 1
+ 1
+ 37
+ 77
+ 0
+ 0
+ 0
+ 2
+ 97
+ 0
+ 2
+ 2
+ 39
+ 2
+ 78
+ 36
+ 20
+ 32
+ 3
+ 8
+ 25
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-1" 130 496 basechar 0
+AnchorPoint: "Anchor-0" 126 -251 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+-64 -71 m 1,0,-1
+ -11 -71 l 2,1,2
+ 26 -71 26 -71 43.5 -65 c 128,-1,3
+ 61 -59 61 -59 68 -42.5 c 128,-1,4
+ 75 -26 75 -26 75 7 c 2,5,-1
+ 75 496 l 1,6,-1
+ 185 496 l 1,7,-1
+ 185 -5 l 2,8,9
+ 185 -65 185 -65 166 -99.5 c 128,-1,10
+ 147 -134 147 -134 108 -148 c 128,-1,11
+ 69 -162 69 -162 5 -162 c 2,12,-1
+ -64 -162 l 1,13,-1
+ -64 -71 l 1,0,-1
+EndSplineSet
+EndChar

@@ -1,0 +1,23 @@
+StartChar: tcaron
+Encoding: 357 357 195
+Width: 326
+GlyphClass: 2
+Flags: W
+TtInstrs:
+PUSHB_2
+ 1
+ 1
+PUSHB_1
+ 50
+PUSHB_1
+ 53
+CALL
+EndTTInstrs
+AnchorPoint: "Anchor-3" 208 546 basechar 0
+AnchorPoint: "Anchor-1" 162 496 basechar 0
+AnchorPoint: "Anchor-0" 192 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 194 116 N 1 0 0 1 0 0 0
+Refer: 355 -1 N 1 0 0 1 188 50 2
+EndChar

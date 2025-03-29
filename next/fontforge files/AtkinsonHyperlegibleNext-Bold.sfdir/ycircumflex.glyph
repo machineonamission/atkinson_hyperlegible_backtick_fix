@@ -1,0 +1,12 @@
+StartChar: ycircumflex
+Encoding: 375 375 216
+Width: 524
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-1" 262 721 basechar 0
+AnchorPoint: "Anchor-0" 262 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 214 121 N 1 0 0 1 0 0 0
+Refer: 356 770 N 1 0 0 1 26 0 0
+EndChar

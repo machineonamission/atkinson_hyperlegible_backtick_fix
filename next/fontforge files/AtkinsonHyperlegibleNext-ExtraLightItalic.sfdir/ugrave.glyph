@@ -1,0 +1,14 @@
+StartChar: ugrave
+Encoding: 249 249 202
+Width: 526
+GlyphClass: 2
+Flags: W
+AnchorPoint: "Anchor-3" 544 496 basechar 0
+AnchorPoint: "Anchor-2" 400 10 basechar 0
+AnchorPoint: "Anchor-1" 348 697 basechar 0
+AnchorPoint: "Anchor-0" 199 0 basechar 0
+LayerCount: 2
+Fore
+Refer: 198 117 N 1 0 0 1 0 0 0
+Refer: 349 768 N 1 0 0 1 99 0 0
+EndChar

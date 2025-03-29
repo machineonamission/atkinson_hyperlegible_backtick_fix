@@ -1,0 +1,50 @@
+StartChar: uni00B9
+Encoding: 185 185 253
+Width: 277
+GlyphClass: 1
+Flags: W
+TtInstrs:
+NPUSHB
+ 26
+ 0
+ 1
+ 0
+ 0
+ 3
+ 1
+ 0
+ 103
+ 0
+ 2
+ 2
+ 50
+ 77
+ 0
+ 3
+ 3
+ 51
+ 3
+ 78
+ 17
+ 18
+ 17
+ 16
+ 4
+ 9
+ 26
+CALL
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+137 661 m 1,0,-1
+ 53 661 l 1,1,-1
+ 53 732 l 1,2,3
+ 97 731 97 731 121.5 742 c 128,-1,4
+ 146 753 146 753 154 779 c 1,5,-1
+ 224 779 l 1,6,-1
+ 224 403 l 1,7,-1
+ 137 403 l 1,8,-1
+ 137 661 l 1,0,-1
+EndSplineSet
+EndChar
